@@ -63,13 +63,13 @@ The assembly is simple and can be completed in approximately **1 hour** with all
 
 ## How to Make It Work?
 
-I am planning to create a series of tutorial videos with this kit to share my knowledge with anyone interested. While the videos are not yet available, feel free to reach out to me via [LinkedIn](www.linkedin.com/in/gilmar-jeronimo/), [GitHub](github.com/GilmarCorreia), or [Email](gilmarcorreiajeronimo@gmail.com) to request the Arduino codes needed to control the robot. And please, remind me to make these videos! Hahaha!
+I am planning to create a series of tutorial videos with this kit to share my knowledge with anyone interested. While the videos are not yet available, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/gilmar-jeronimo/), [GitHub](https://github.com/GilmarCorreia), or [Email](mailto:gilmarcorreiajeronimo@gmail.com) to request the Arduino codes needed to control the robot. And please, remind me to make these videos! Hahaha!
 
 ---
 
 ## Sharing
 
-I would be delighted to see this chassis being used in projects, competitions, and training! If you use the **Speedy**, share your project with me via [LinkedIn](www.linkedin.com/in/gilmar-jeronimo/) or [GitHub](github.com/GilmarCorreia). I’d love to see your creations!
+I would be delighted to see this chassis being used in projects, competitions, and training! If you use the **Speedy**, share your project with me via [LinkedIn](https://www.linkedin.com/in/gilmar-jeronimo/) or [GitHub](https://github.com/GilmarCorreia). I’d love to see your creations!
 
 ---
 
